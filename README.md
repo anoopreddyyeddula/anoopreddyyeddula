@@ -2,7 +2,7 @@
 
 This is Anoop.
 
-I'm currently pursuing my Masters in Computer Science at @Portland State University and will be graduating in June 2024.
+I'm currently pursuing my Masters in Computer Science at Portland State University and will be graduating in June 2024.
 
 Actively looking for Full time opportunities in Software Engineer/Full-stack/Data Analyst roles.
 
