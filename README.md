@@ -61,10 +61,10 @@ I encourage you to explore my projects. The links are provided below, along with
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
-| 🌧 [Accurate Rainfall Prediction](https://github.com/anoopreddyyeddula/Accurate-Rainfall-Prediction)| 👱‍♂️👩🏻‍🦳 [Decoding Facial and Image Recognition (https://github.com/anoopreddyyeddula/Decoding-Facial-Recognition-Power-Image-Recognition-using-Convolutional-Neural-Network-AI-)|
+| 🌧 [Accurate Rainfall Prediction](https://github.com/anoopreddyyeddula/Accurate-Rainfall-Prediction)| 👱‍♂️👩🏻‍🦳 [Decoding Facial and Image Recognition] 
+(https://github.com/anoopreddyyeddula/Decoding-Facial-Recognition-Power-Image-Recognition-using-Convolutional-Neural-Network-AI-)|
 | :-:| :-:| 
-| [<img width="602" alt="Accurate Rainfall Prediction" src="https://github.com/user-attachments/assets/e6ac53c2-629b-4f23-a751-bafd34a21e6d" / 
- (https://github.com/anoopreddyyeddula/Accurate-Rainfall-Prediction)| [![Decoding Facial and Image Recognition using CNN](https://github.com/user-attachments/assets/f3f3e825-d6a3-4610-be3c-7b8af5ba419c)] (https://github.com/anoopreddyyeddula/Decoding-Facial-Recognition-Power-Image-Recognition-using-Convolutional-Neural-Network-AI-)
+| [<img width="602" alt="Accurate Rainfall Prediction" src="https://github.com/user-attachments/assets/ecda17ed-228d-4978-9a9c-206a93a2199d" />](https://github.com/anoopreddyyeddula/Accurate-Rainfall-Prediction)| [![Decoding Facial and Image Recognition using CNN](https://github.com/user-attachments/assets/07fd11ae-1085-42b0-b206-49d1b3f11359)](https://github.com/anoopreddyyeddula/Decoding-Facial-Recognition-Power-Image-Recognition-using-Convolutional-Neural-Network-AI-)
 
 
 Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
