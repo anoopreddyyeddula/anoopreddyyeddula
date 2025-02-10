@@ -20,5 +20,39 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 * *Deploy Kubernetes Applications on Google Cloud by [__Google__](https://www.credly.com/badges/bd5b1404-837a-4f00-b015-7f714f3098fe/linked_in_profile)*
 * *AWS Certified Cloud Practitioner by [__Amazon Web Services Training and Certification__](https://www.credly.com/badges/66675cbd-aeaf-43cb-9a73-64cad69f1711/linked_in_profile)*
 
+🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
+
+* *Linear Regression*
+* *Logistic Regression*
+* *Support Vector Machines (SVM)*
+* *Decision Trees (DT)*
+* *Random Forests (RF)*
+* *K-Nearest Neighbors (KNN)*
+* *Deep Neural Networks*
+* *Convolutional Neural Networks (CNN)*
+* *Recurrent Neural Networks (RNN)*
+* *Naive Bayes (NB)*
+* *Gradient Boosted Decision Trees (GBDT)*
+* *XGBoost*
+* *Long Short-Term Memory (LSTM)*
+
+🔭 Furthermore, below are some of the tools used during my experience for __Generative AI__:
+
+* *Langchain*
+* *LangGraph*
+* *Retrieval Augmented Generation (RAG)*
+* *Llama Index*
+* *OpenAI API*
+* *Mixtral (LLM)*
+* *Llama 2 (LLM)*
+* *GPT - 3 (LLM)*
+* *GPT - 3.5 (LLM)*
+* *GPT - 4 (LLM)*
+
+<h2>🪚🔧 My Skills 😀😀:</h2>
+
+These valuable tools and techniques have empowered me to successfully develop and comprehend intricate many projects.
+
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)  [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org) [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)   [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org) [<img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/) [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org) [![](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org) [![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html) [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com) [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com) [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/en-us/) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com) [<img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width = "100" height = "27.5"/>](https://www.sqlite.org/index.html)[![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org) [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/) [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
 
 Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
