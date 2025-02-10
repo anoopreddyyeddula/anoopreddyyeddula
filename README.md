@@ -1,6 +1,6 @@
 ### Hi there, This is Anoop Reddy👋
 
-I'm passionate about <h4>Machine Learning, Data Analysis, Large Language Models (LLMs) and Generative AI</h4>.
+I'm passionate about Machine Learning, Data Analysis, Large Language Models (LLMs) and Generative AI.
 
 I'm currently pursuing my Masters in Computer Science at Portland State University and will be graduating in June 2024.
 
