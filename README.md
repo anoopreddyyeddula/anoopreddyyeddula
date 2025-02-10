@@ -1,6 +1,4 @@
-### Hi there 👋
-
-This is Anoop.
+### Hi there, This is Anoop Reddy👋
 
 I'm currently pursuing my Masters in Computer Science at Portland State University and will be graduating in June 2024.
 
