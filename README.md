@@ -75,4 +75,12 @@ I encourage you to explore my projects. The links are provided below, along with
 | :-:| 
 | [![Agile](https://github.com/user-attachments/assets/87f7983a-ce9f-4c4f-a0f7-b2f06bcc62a5)](https://github.com/anoopreddyyeddula/Agile-Project)| 
 
+<h2 align = "center"> 🖥 My Voice Assistant Project </h2> 
+
+| 🌐🤖[CountryBot](https://github.com/anoopreddyyeddula/Voice-Assistant-Country-Bot-)|
+| :-:| 
+| [![CountryBot Voice Assistant](https://github.com/user-attachments/assets/395e0d1b-9ef4-4d9c-90dd-dc8c7689d189)](https://github.com/anoopreddyyeddula/Voice-Assistant-Country-Bot-)| 
+
+
+
 Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
