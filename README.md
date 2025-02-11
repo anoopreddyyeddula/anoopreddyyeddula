@@ -128,5 +128,11 @@ I encourage you to explore my projects. The links are provided below, along with
 
 &emsp;&emsp; 🏫 [__Narayana Educational Institutions__](https://www.narayanagroup.com) - *High School*
 
+## 🖥 My List of Certifications
+
+&emsp;&emsp; 🌱 [__Create ML Models with BigQuery ML by Google__ !](https://www.credly.com/badges/153edab1-8cd4-4f18-a353-9c368833da3f/linked_in_profile)
+
+
+
 
 Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
