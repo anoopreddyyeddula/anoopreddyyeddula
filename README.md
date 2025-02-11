@@ -69,6 +69,10 @@ I encourage you to explore my projects. The links are provided below, along with
 | :-:| 
 | [![image](https://github.com/user-attachments/assets/5b730262-1f9c-496b-8259-ccc29c47476d)](https://github.com/anoopreddyyeddula/Spoofed-Face-Detection)|
 
+<h2 align = "center"> 🖥 My Agile Project </h2> 
 
+| 🖥️[Agile](https://github.com/anoopreddyyeddula/Agile-Project)|
+| :-:| 
+| [![Agile](https://github.com/user-attachments/assets/87f7983a-ce9f-4c4f-a0f7-b2f06bcc62a5)](https://github.com/anoopreddyyeddula/Agile-Project)| 
 
 Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
