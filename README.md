@@ -67,7 +67,7 @@ I encourage you to explore my projects. The links are provided below, along with
 
 | 👱‍♂️[Spoofed Face Detection](https://github.com/anoopreddyyeddula/Spoofed-Face-Detection)|
 | :-:| 
-| [![image](https://github.com/user-attachments/assets/5b730262-1f9c-496b-8259-ccc29c47476d)] (https://github.com/anoopreddyyeddula/Spoofed-Face-Detection)|
+| [![image](https://github.com/user-attachments/assets/5b730262-1f9c-496b-8259-ccc29c47476d)](https://github.com/anoopreddyyeddula/Spoofed-Face-Detection)|
 
 
 
