@@ -109,7 +109,7 @@ I encourage you to explore my projects. The links are provided below, along with
 
 | 🖥️[Portfolio Website](https://github.com/anoopreddyyeddula/anoopreddyyeddula.github.io)|
 | :-:| 
-| [![image](https://github.com/user-attachments/assets/19917327-621f-4440-9779-1278683e9067)](https://github.com/anoopreddyyeddula/anoopreddyyeddula.github.io)| 
+| [![image](https://github.com/user-attachments/assets/19917327-621f-4440-9779-1278683e9067)](https://anoopreddyyeddula.github.io/)| 
 
 <h2 align = "center"> 🖥 My Website Project </h2> 
 
