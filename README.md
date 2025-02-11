@@ -105,5 +105,16 @@ I encourage you to explore my projects. The links are provided below, along with
 | :-:| 
 | [![image](https://github.com/user-attachments/assets/a54859eb-7460-4dbf-ae64-345dbf1e9697)](https://github.com/anoopreddyyeddula/Exploring-Fractals-Project)| 
 
+<h2 align = "center"> 🖥 My Portfolio Website Project </h2> 
+
+| 🖥️[Portfolio Website](https://github.com/anoopreddyyeddula/anoopreddyyeddula.github.io)|
+| :-:| 
+| [![image](https://github.com/user-attachments/assets/19917327-621f-4440-9779-1278683e9067)](https://github.com/anoopreddyyeddula/anoopreddyyeddula.github.io)| 
+
+<h2 align = "center"> 🖥 My Website Project </h2> 
+
+| 🖥️[Website](https://github.com/anoopreddyyeddula/Website)|
+| :-:| 
+| [![image](https://github.com/user-attachments/assets/4580f15c-9ab1-4721-9b34-5cdd862d1acc)](https://github.com/anoopreddyyeddula/Website)| 
 
 Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
