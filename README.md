@@ -83,14 +83,27 @@ I encourage you to explore my projects. The links are provided below, along with
 
 <h2 align = "center"> 🖥 My Database Management System Project </h2> 
 
-| 🖥️[Hospital Data Management System](https://github.com/anoopreddyyeddula/Hospital-Data-Management-)|
+| 🏥[Hospital Data Management System](https://github.com/anoopreddyyeddula/Hospital-Data-Management-)|
 | :-:| 
 | [![image](https://github.com/user-attachments/assets/23e56fe8-66a6-4f69-a0f6-c356c05146ce)](https://github.com/anoopreddyyeddula/Hospital-Data-Management-)| 
 
 <h2 align = "center"> 🖥 My Healthcare Mobile Application Project </h2> 
 
-| 🖥️[Healthcare Mobile Application](https://github.com/anoopreddyyeddula/Healthcare-Mobile-Application-CONFAB-)|
+| 👩🏻‍⚕👨🏻‍⚕🩺[Healthcare Mobile Application](https://github.com/anoopreddyyeddula/Healthcare-Mobile-Application-CONFAB-)|
 | :-:| 
 | [![image](https://github.com/user-attachments/assets/b9589f05-dbf3-4744-b899-f775b3545281)](https://github.com/anoopreddyyeddula/Healthcare-Mobile-Application-CONFAB-)| 
+
+<h2 align = "center"> 🖥 My Internet Relay Chat Project </h2> 
+
+| 🛜🖥️[Internet Relay Chat](https://github.com/anoopreddyyeddula/Internet-Relay-Chat)|
+| :-:| 
+| [![image](https://github.com/user-attachments/assets/78bffefa-66f1-4d77-a887-275b98bda0cd)](https://github.com/anoopreddyyeddula/Internet-Relay-Chat)| 
+
+<h2 align = "center"> 🖥 My Exploring Fractals Project </h2> 
+
+| 🌀[Exploring Fractals](https://github.com/anoopreddyyeddula/Exploring-Fractals-Project)|
+| :-:| 
+| [![image](https://github.com/user-attachments/assets/a54859eb-7460-4dbf-ae64-345dbf1e9697)](https://github.com/anoopreddyyeddula/Exploring-Fractals-Project)| 
+
 
 Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
