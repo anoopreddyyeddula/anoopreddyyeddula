@@ -160,5 +160,8 @@ I encourage you to explore my projects. The links are provided below, along with
 
 &emsp;&emsp; 🦸 [__Curiosity__](https://github.com/anoopreddyyeddula/Curiosity)
 
+## 🖥 My Resume 
+
+&emsp;&emsp; 📄 [__My Resume__](https://github.com/anoopreddyyeddula/Resume/blob/main/AnoopReddyY_Resume.pdf)
 
 Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
