@@ -164,4 +164,20 @@ I encourage you to explore my projects. The links are provided below, along with
 
 &emsp;&emsp; 📄 [__My Resume__](https://github.com/anoopreddyyeddula/Resume/blob/main/AnoopReddyY_Resume.pdf)
 
-Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
+## 🖥 My Contact Information
+
+&emsp;&emsp; 📫 __Email:__ __anoopreddy3001@gmail.com__
+
+&emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/anoop-reddy-/__
+
+## 🎬🔚 Summary
+
+These are some of my projects and certifications that I have worked on and shared on GitHub. I am eager to expand my expertise in AI and machine learning by exploring new courses and applying my knowledge to innovative projects.
+
+If you have any questions or would like to discuss my work, feel free to reach out! I’m always excited to connect, collaborate, and share knowledge with the community. Looking forward to engaging with like-minded individuals—let’s learn and grow together! 🚀
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Falways-learn&psig=AOvVaw0WijL0rcpqbvMc41NxShwT&ust=1739325619713000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjr4oTDuosDFQAAAAAdAAAAABAE
+
+&emsp;&emsp; 📫 __Email:__ __anoopreddy3001@gmail.com__
+
+&emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/anoop-reddy-/__
