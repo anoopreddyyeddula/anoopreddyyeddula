@@ -85,6 +85,6 @@ I encourage you to explore my projects. The links are provided below, along with
 
 | 🖥️[Hospital Data Management System](https://github.com/anoopreddyyeddula/Hospital-Data-Management-)|
 | :-:| 
-| [![DBMS](https://github.com/user-attachments/assets/f1894a11-9733-43a4-83c7-0dc53ddd3b38)](https://github.com/anoopreddyyeddula/Hospital-Data-Management-)| 
+| [![image](https://github.com/user-attachments/assets/23e56fe8-66a6-4f69-a0f6-c356c05146ce)](https://github.com/anoopreddyyeddula/Hospital-Data-Management-)| 
 
 Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
