@@ -160,7 +160,7 @@ I encourage you to explore my projects. The links are provided below, along with
 | [![image](https://github.com/user-attachments/assets/4580f15c-9ab1-4721-9b34-5cdd862d1acc)](https://github.com/anoopreddyyeddula/Website)| 
 
 ## 🖥 My Work Experience 
-&emsp;&emsp; 🏢👨‍💻 [__Data Analyst__] | [__Hudl__] (https://www.hudl.com/) [*Oct 2020 - May 2022*]
+&emsp;&emsp; 🏢👨‍💻 [__Data Analyst__] | [__Hudl__](https://www.hudl.com/) [*Oct 2020 - May 2022*]
 
 ## 🖥 My Education 
 
