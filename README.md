@@ -87,4 +87,10 @@ I encourage you to explore my projects. The links are provided below, along with
 | :-:| 
 | [![image](https://github.com/user-attachments/assets/23e56fe8-66a6-4f69-a0f6-c356c05146ce)](https://github.com/anoopreddyyeddula/Hospital-Data-Management-)| 
 
+<h2 align = "center"> 🖥 My Healthcare Mobile Application Project </h2> 
+
+| 🖥️[Healthcare Mobile Application](https://github.com/anoopreddyyeddula/Healthcare-Mobile-Application-CONFAB-)|
+| :-:| 
+| [![image](https://github.com/user-attachments/assets/b9589f05-dbf3-4744-b899-f775b3545281)](https://github.com/anoopreddyyeddula/Healthcare-Mobile-Application-CONFAB-)| 
+
 Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
