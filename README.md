@@ -36,7 +36,7 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 * *XGBoost*
 * *Long Short-Term Memory (LSTM)*
 
-🔭 Furthermore, below are some of the tools used during my experience for __Generative AI__:
+🔭 Here are some of the __Generative AI__ tools I have experience with:
 
 * *Langchain*
 * *LangGraph*
@@ -48,6 +48,17 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 * *GPT - 3 (LLM)*
 * *GPT - 3.5 (LLM)*
 * *GPT - 4 (LLM)*
+
+🔭 Here are some of the __DevOps__ technologies I have experience with:
+
+* *Docker*
+* *Docker-Compose*
+* *Kubernetes*
+* *Linux*
+* *Windows Subsystem for Linux (WSL)*
+* *Travis CI*
+* *Ubuntu*
+* *GitLab CI/CD*
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
