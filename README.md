@@ -81,6 +81,10 @@ I encourage you to explore my projects. The links are provided below, along with
 | :-:| 
 | [![CountryBot Voice Assistant](https://github.com/user-attachments/assets/395e0d1b-9ef4-4d9c-90dd-dc8c7689d189)](https://github.com/anoopreddyyeddula/Voice-Assistant-Country-Bot-)| 
 
+<h2 align = "center"> 🖥 My Database Management System Project </h2> 
 
+| 🖥️[Hospital Data Management System](https://github.com/anoopreddyyeddula/Hospital-Data-Management-)|
+| :-:| 
+| [![DBMS](https://github.com/user-attachments/assets/f1894a11-9733-43a4-83c7-0dc53ddd3b38)](https://github.com/anoopreddyyeddula/Hospital-Data-Management-)| 
 
 Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
