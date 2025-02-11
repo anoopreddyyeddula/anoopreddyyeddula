@@ -132,7 +132,7 @@ I encourage you to explore my projects. The links are provided below, along with
 
 &emsp;&emsp; 🌱 [__Create ML Models with BigQuery ML by Google__ !](https://www.credly.com/badges/153edab1-8cd4-4f18-a353-9c368833da3f/linked_in_profile)
 
-
+&emsp;&emsp; 🌱 [__Prepare Data for ML APIs on Google Cloud by Google__ !](https://www.credly.com/badges/084e4068-efb9-4fdb-90ea-790b86cf695e/linked_in_profile)
 
 
 Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
