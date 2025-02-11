@@ -120,6 +120,13 @@ I encourage you to explore my projects. The links are provided below, along with
 ## 🖥 My Work Experience 
 &emsp;&emsp; 🏢👨‍💻 [__Data Analyst__] | [__Hudl__] (https://www.hudl.com/) [*Oct 2020 - May 2022*]
 
+## 🖥 My Education 
+
+&emsp;&emsp; 🏫 [__Portland State University__](https://www.pdx.edu/) - *Masters in Computer Science*
+
+&emsp;&emsp; 🏫 [__Dayananda Sagar University__](https://www.dsu.edu.in/) - *B.Tech in Computer Science and Engineering*
+
+&emsp;&emsp; 🏫 [__Narayana Educational Institutions__](https://www.narayanagroup.com) - *High School*
 
 
 Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
