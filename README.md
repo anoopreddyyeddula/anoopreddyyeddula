@@ -1,6 +1,6 @@
 ### Hi there, This is Anoop Reddy👋
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoop-reddy-/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anoop_reddy5/?__pwa=1) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) [![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com/landing?hs=197&authuser=0)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoop-reddy-/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anoop_reddy5/?__pwa=1) [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://anoopreddyyeddula.github.io/) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) [![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com/landing?hs=197&authuser=0)
 
 I'm passionate about __Machine Learning__, __Data Analysis__, __Large Language Models (LLMs)__ and __Generative AI__. 
 
