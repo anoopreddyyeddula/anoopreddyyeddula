@@ -146,4 +146,19 @@ I encourage you to explore my projects. The links are provided below, along with
 
 &emsp;&emsp; 🌱 [__AWS Certified Cloud Practitioner by Amazon Web Services Training and Certification__!](https://www.credly.com/badges/66675cbd-aeaf-43cb-9a73-64cad69f1711/linked_in_profile)
 
+## 🖥 My Competencies
+
+&emsp;&emsp; 🦸 [__Communication Skills__](https://github.com/anoopreddyyeddula/Communication-Skills)
+
+&emsp;&emsp; 🦸 [__Leadership Skills__](https://github.com/anoopreddyyeddula/Leadership-Skills)
+
+&emsp;&emsp; 🦸 [__Problem-solving Skills__](https://github.com/anoopreddyyeddula/Problem-solving-Skills)
+
+&emsp;&emsp; 🦸 [__Team Work__](https://github.com/anoopreddyyeddula/Team-Work)
+
+&emsp;&emsp; 🦸 [__Time Management__](https://github.com/anoopreddyyeddula/Time-Management)
+
+&emsp;&emsp; 🦸 [__Curiosity__](https://github.com/anoopreddyyeddula/Curiosity)
+
+
 Ping me at: @anoopreddy3001@gmail.com or anoop2@pdx.edu
