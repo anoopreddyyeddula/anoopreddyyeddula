@@ -61,9 +61,12 @@ I encourage you to explore my projects. The links are provided below, along with
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
-| 🌧[Accurate Rainfall Prediction](https://github.com/anoopreddyyeddula/Accurate-Rainfall-Prediction)| 👱‍♂️👩🏻‍🦳[Decoding Facial and Image Recognition](https://github.com/anoopreddyyeddula/Decoding-Facial-Recognition-Power-Image-Recognition-using-Convolutional-Neural-Network-AI-)| 👱‍♂️[Spoofed Face Detection](https://github.com/anoopreddyyeddula/Spoofed-Face-Detection)
-| :-:| :-:| :-:| 
-| [<img width="602" alt="Accurate Rainfall Prediction" src="https://github.com/user-attachments/assets/ecda17ed-228d-4978-9a9c-206a93a2199d" />](https://github.com/anoopreddyyeddula/Accurate-Rainfall-Prediction)|[![Decoding Facial and Image Recognition using CNN](https://github.com/user-attachments/assets/ea0f2457-fc6e-42d6-8c1c-84bc1fc2d580)](https://github.com/anoopreddyyeddula/Decoding-Facial-Recognition-Power-Image-Recognition-using-Convolutional-Neural-Network-AI-)
+| 🌧[Accurate Rainfall Prediction](https://github.com/anoopreddyyeddula/Accurate-Rainfall-Prediction)| 👱‍♂️👩🏻‍🦳[Decoding Facial and Image Recognition](https://github.com/anoopreddyyeddula/Decoding-Facial-Recognition-Power-Image-Recognition-using-Convolutional-Neural-Network-AI-)| 
+| :-:| :-:|
+| [<img width="602" alt="Accurate Rainfall Prediction" src="https://github.com/user-attachments/assets/ecda17ed-228d-4978-9a9c-206a93a2199d" />](https://github.com/anoopreddyyeddula/Accurate-Rainfall-Prediction)|[![Decoding Facial and Image Recognition using CNN](https://github.com/user-attachments/assets/ea0f2457-fc6e-42d6-8c1c-84bc1fc2d580)](https://github.com/anoopreddyyeddula/Decoding-Facial-Recognition-Power-Image-Recognition-using-Convolutional-Neural-Network-AI-)|
+
+| 👱‍♂️[Spoofed Face Detection](https://github.com/anoopreddyyeddula/Spoofed-Face-Detection)|
+| :-:| 
 | [![image](https://github.com/user-attachments/assets/5b730262-1f9c-496b-8259-ccc29c47476d)] (https://github.com/anoopreddyyeddula/Spoofed-Face-Detection)|
 
 
