@@ -176,7 +176,8 @@ These are some of my projects and certifications that I have worked on and share
 
 If you have any questions or would like to discuss my work, feel free to reach out! I’m always excited to connect, collaborate, and share knowledge with the community. Looking forward to engaging with like-minded individuals—let’s learn and grow together! 🚀
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Falways-learn&psig=AOvVaw0WijL0rcpqbvMc41NxShwT&ust=1739325619713000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjr4oTDuosDFQAAAAAdAAAAABAE
+![Constant Learning](https://github.com/user-attachments/assets/89d1c0f6-86f4-415d-9abe-0437e360c112)
+
 
 &emsp;&emsp; 📫 __Email:__ __anoopreddy3001@gmail.com__
 
