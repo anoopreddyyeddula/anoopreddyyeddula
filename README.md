@@ -1,6 +1,6 @@
 ### Hi there, This is Anoop Reddy👋
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoop-reddy-/) [![image](https://github.com/user-attachments/assets/6a9e0043-2c18-4fde-8841-ee780d34e1b2)](https://anoopreddyyeddula.github.io/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoop-reddy-/) [![briefcase](https://github.com/user-attachments/assets/18dac697-bf37-478b-81a3-462dbff88115)](https://anoopreddyyeddula.github.io/)
 
 
 I'm passionate about __Machine Learning__, __Data Analysis__, __Large Language Models (LLMs)__ and __Generative AI__. 
