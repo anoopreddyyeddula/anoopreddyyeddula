@@ -10,7 +10,7 @@ I'm passionate about __Machine Learning__, __Data Analysis__, __Large Language M
 
 I hold a Masters Degree in Computer Science at [__Portland State University__](https://www.pdx.edu/).
 
-I have *2+ years* of experience as a __Data Analyst__ at __Hudl__. 
+I have *2+ years* of experience as __AI/ML Engineer__ and __Data Analyst__. 
 
 Furthermore, I have a strong practical and theoretical experience in the development of __machine learning__, __deep learning models__, __Large Language Models (LLMs)__ and __Generative AI__.
 
