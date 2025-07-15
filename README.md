@@ -10,7 +10,7 @@ I'm passionate about __Artificial Intelligence__, __Machine Learning__, __Data A
 
 I hold a Masters Degree in Computer Science at [__Portland State University__](https://www.pdx.edu/).
 
-I have *2+ years* of experience as __AI/ML Engineer__ and __Data Analyst__. 
+I have *5 years* of experience as __AI Engineer__ and __Data Scientist__. 
 
 Furthermore, I have a strong practical and theoretical experience in the development of __machine learning__, __deep learning models__, __Large Language Models (LLMs)__ and __Generative AI__.
 
@@ -161,9 +161,11 @@ I encourage you to explore my projects. The links are provided below, along with
 
 ## 🖥 My Work Experience 
 
-&emsp;&emsp; 🏢👨‍💻 [__AI/ML Engineer__] | [__KKRGenAI Innovations LLC__](https://kkrgenaiinnovations.com/) [*Sept 2024 - Present*]
+&emsp;&emsp; 🏢👨‍💻 [__AI Engineer__] | [__Ross Stores__](https://jobs.rossstores.com/) [*March 2024 - Present*]
 
-&emsp;&emsp; 🏢👨‍💻 [__Data Analyst__] | [__Hudl__](https://www.hudl.com/) [*Oct 2020 - May 2022*]
+&emsp;&emsp; 🏢👨‍💻 [__AI Engineer__] | [__Chevron__](https://careers.chevron.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22ALL%22,%22value%22:%22%22%7D]) [*June 2023 - Feb 2024]
+
+&emsp;&emsp; 🏢👨‍💻 [__Data Scientist__] | [__Hudl__](https://www.hudl.com/) [*Oct 2019 - Sept 2022*]
 
 ## 🖥 My Education 
 
