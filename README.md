@@ -161,9 +161,9 @@ I encourage you to explore my projects. The links are provided below, along with
 
 ## 🖥 My Work Experience 
 
-&emsp;&emsp; 🏢👨‍💻 [__AI Engineer__] | [__Ross Stores__](https://jobs.rossstores.com/) [*March 2024 - Present*]
+&emsp;&emsp; 🏢👨‍💻 [__AI Engineer__] | [__Ross Stores__](https://jobs.rossstores.com/) [*March 2024 - *Present*]
 
-&emsp;&emsp; 🏢👨‍💻 [__AI Engineer__] | [__Chevron__](https://careers.chevron.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22ALL%22,%22value%22:%22%22%7D]) [*June 2023 - Feb 2024]
+&emsp;&emsp; 🏢👨‍💻 [__AI Engineer__] | [__Chevron__](https://careers.chevron.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22ALL%22,%22value%22:%22%22%7D]) [June 2023 - Feb 2024]
 
 &emsp;&emsp; 🏢👨‍💻 [__Data Scientist__] | [__Hudl__](https://www.hudl.com/) [*Oct 2019 - Sept 2022*]
 
